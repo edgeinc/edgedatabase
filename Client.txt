@@ -1,4 +1,4 @@
 CurrentVersion = 6.0.0.0
 DownloadLink = null
-CaptionLink = https://raw.githubusercontent.com/edgeinc/edgedatabase/master/Current Verion/VersionCaption.txt
+CaptionLink = https://raw.githubusercontent.com/edgeinc/edgedatabase/master/Current Version/VersionCaption.txt
 Autorun = null
