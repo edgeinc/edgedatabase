@@ -1,2 +1,4 @@
-Version = 6.0.0.0
-Link = 
+CurrentVersion = 6.0.0.0
+DownloadLink = null
+CaptionLink = null
+Autorun = null
